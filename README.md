@@ -1,4 +1,4 @@
-# Diffusion Transformer (DiT) Reproduction/Application
+# Diffusion Transformer (DiT) Reproduction
 
 This is a codebase for a compute-limited term-project reproduction/application of **Scalable Diffusion Models with Transformers**. The full paper trains large latent DiT models on ImageNet with very large compute; this project instead targets reproducing the main expected trends on Imagenette using a pretrained VAE and smaller DiT configs.
 
